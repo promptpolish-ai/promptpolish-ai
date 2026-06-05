@@ -1,6 +1,6 @@
 ## 🛠️ PromptPolish AI Tools
 
-Building CLI tools that make developers' lives better. Quality over quantity.
+Building CLI tools that make developers' lives better.
 
 ### Featured Tools
 
@@ -8,11 +8,6 @@ Building CLI tools that make developers' lives better. Quality over quantity.
 |------|-------------|--------|
 | 📊 **[GitScope](https://github.com/promptpolish-ai/gitscope)** | Beautiful git contribution reports from your terminal | `npx gitscope` |
 | 🛡️ **[dotenv-linter](https://github.com/promptpolish-ai/dotenv-linter)** | Lint and validate .env files | `npx dotenv-linter` |
-
-### Stats
-
-![GitScope stars](https://img.shields.io/github/stars/promptpolish-ai/gitscope?style=flat-square)
-![dotenv-linter stars](https://img.shields.io/github/stars/promptpolish-ai/dotenv-linter?style=flat-square)
 
 ### Support
 
