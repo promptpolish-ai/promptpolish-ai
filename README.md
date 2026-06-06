@@ -1,47 +1,55 @@
-# 👋 Welcome to PromptPolish AI
+<h1 align="center">DevSnap — Premium UI Components</h1>
+<p align="center">
+  <strong>10 beautiful HTML/CSS components for dark-mode landing pages</strong>
+  <br>
+  Gold accent · Glassmorphism · Fully responsive · Zero framework lock-in
+</p>
 
-**Building tools that make developers' lives easier.** We create open-source CLI tools, web apps, and automation for the developer community.
+<p align="center">
+  <a href="https://devsnap-zeta.vercel.app">🌐 Live Demo</a>
+  ·
+  <a href="https://github.com/promptpolish-ai/devsnap">📦 Repository</a>
+  ·
+  <a href="https://devsnap-zeta.vercel.app/#pricing">💰 Buy $3–$29</a>
+  ·
+  <a href="https://gist.github.com/promptpolish-ai/4b9d180735432ee604849849c8695df8">📋 Gist</a>
+</p>
 
-## 🛠️ Our Tools
+---
 
-| Tool | Description | Try It |
-|------|-------------|--------|
-| 📊 **GitScope** | Beautiful git contribution reports from your terminal | `npx @promptpolish-ai/gitscope` |
-| 🎨 **GitScope Pro** | 5 premium report templates | [Get it for $5](https://gitscope-pro.vercel.app) |
-| 📈 **GitLog Viz** | Interactive git log visualizer (web tool) | [Try online](https://gitlog-viz.vercel.app) |
-| 🤝 **Commit Helper** | AI-powered commit message generator | [Try online](https://commit-helper-blond.vercel.app) |
+### 🎨 Components
 
-## 💎 GitScope Pro
+| Component | Description |
+|-----------|-------------|
+| **Hero** | Particle effects, gradient overlays, animated text |
+| **Navbar** | Glassmorphism, smooth scroll, responsive hamburger |
+| **Features** | 3-column grid with hover reveals |
+| **Pricing** | 3 tiers with featured card highlight |
+| **Testimonials** | Card grid with avatar + quote |
+| **FAQ** | Accessible accordion with smooth transitions |
+| **Stats** | Animated counter numbers |
+| **CTA** | Gradient buttons, dual-action |
+| **Contact** | Clean form with validation styling |
+| **Footer** | Multi-column, newsletter signup |
 
-Transform your git reports into stunning, presentation-ready documents with **5 premium templates**:
+### ✨ Features
+- **Dark mode first** — designed for dark-themed projects
+- **Gold accent** — warm gold (#d4a853) palette
+- **Glassmorphism** — modern frosted-glass effects
+- **Fully responsive** — mobile, tablet, desktop
+- **No framework** — pure HTML + CSS
 
-- 🏢 **Corporate Pro** → Professional branded reports
-- 💻 **Terminal Dark** → Developer-friendly dark theme
-- 📊 **Dashboard** → Interactive metrics dashboard
-- 📋 **Minimal Light** → Clean, print-friendly
-- 📈 **Executive Summary** → One-page KPI snapshot
+### 💰 Pricing
+| Plan | Price |
+|------|-------|
+| Single Component | **$3** |
+| Complete Collection | **$9** |
+| Commercial License | **$29** |
 
-**⬇️ [Get GitScope Pro — $5 (BTC)](https://gitscope-pro.vercel.app)**
-
-## 🚀 Quick Start
-
-```bash
-# Run gitscope on any git repo (no install needed)
-npx @promptpolish-ai/gitscope
-
-# Or install globally
-npm install -g @promptpolish-ai/gitscope
-gitscope .
-```
-
-## 📬 Get in Touch
-
-- 🐛 **Issues?** Open on the relevant GitHub repo
-- 💡 **Suggestions?** We'd love to hear them!
-- ₿ **Bitcoin donations:** `1DQXcKwN95AWqwmwbscG7fRbEYMdWU9GB3`
+**Payment:** Bitcoin → `1DQXcKwN95AWqwmwbscG7fRbEYMdWU9GB3`
 
 ---
 
 <p align="center">
-  <i>Built with ❤️ for developers who care about their craft.</i>
+  <a href="https://devsnap-zeta.vercel.app">🚀 View Live Demo</a>
 </p>
